@@ -1,0 +1,34 @@
+body {
+  background-color: #77B28C;
+}
+
+nav {
+  margin-bottom: 4em;
+  font-family: 'Tomorrow';
+}
+
+h1 {
+  font-family: 'Tomorrow';
+  color: #C2C5BB;
+}
+h2 {
+  font-size: 6em;
+  font-family: 'Tomorrow';
+}
+
+#canDo{
+  margin-bottom: 1em;
+}
+
+.underline{
+    border-bottom: 1px dashed red;
+}
+
+p {
+  font-family: 'Noto serif';
+}
+
+.btn {
+  width: 10em;
+  font-family: 'Tomorrow';
+}
